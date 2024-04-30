@@ -1,0 +1,46 @@
+NumDots: Number of dots in the URL.
+SubdomainLevel: Number of subdomains in the URL.
+PathLevel: Depth of the URL path.
+UrlLength: Length of the URL.
+NumDash: Number of dashes in the URL.
+NumDashInHostname: Number of dashes in the hostname part of the URL.
+AtSymbol: Presence of "@" symbol in the URL.
+NumUnderscore: Number of underscores in the URL.
+NumPercent: Number of percent symbols in the URL.
+NumQueryComponents: Number of query components in the URL.
+NumAmpersand: Number of ampersand symbols in the URL.
+NumHash: Number of hash symbols in the URL.
+NumNumericChars: Number of numeric characters in the URL.
+NoHttps: Presence of "https" in the URL.
+IpAddress: Presence of an IP address in the URL.
+DomainInSubdomains: Presence of domain name in subdomains.
+DomainInPaths: Presence of domain name in paths.
+HttpsInHostname: Presence of "https" in the hostname part of the URL.
+HostnameLength: Length of the hostname part of the URL.
+PathLength: Length of the path part of the URL.
+QueryLength: Length of the query part of the URL.
+DoubleSlashInPath: Presence of double slash "//" in the path part of the URL.
+NumSensitiveWords: Number of sensitive words in the URL.
+EmbeddedBrandName: Presence of embedded brand name in the URL.
+PctExtHyperlinks: Percentage of external hyperlinks.
+PctExtResourceUrls: Percentage of external resource URLs.
+ExtFavicon: Presence of external favicon.
+InsecureForms: Presence of insecure forms.
+RelativeFormAction: Presence of relative form action.
+ExtFormAction: Presence of external form action.
+AbnormalFormAction: Presence of abnormal form action.
+PctNullSelfRedirectHyperlinks: Percentage of null self-redirect hyperlinks.
+FrequentDomainNameMismatch: Presence of frequent domain name mismatch.
+FakeLinkInStatusBar: Presence of fake link in status bar.
+RightClickDisabled: Presence of right-click disabled.
+PopUpWindow: Presence of pop-up window.
+SubmitInfoToEmail: Presence of submission to email.
+IframeOrFrame: Presence of iframe or frame.
+MissingTitle: Presence of missing title.
+ImagesOnlyInForm: Presence of images only in form.
+SubdomainLevelRT: Subdomain level registered time.
+UrlLengthRT: URL length registered time.
+PctExtResourceUrlsRT: Percentage of external resource URLs registered time.
+AbnormalExtFormActionR: Abnormal external form action registered time.
+ExtMetaScriptLinkRT: External meta script link registered time.
+PctExtNullSelfRedirectHyperlinksRT: Percentage of external null self-redirect hyperlinks registered time.
