@@ -1,0 +1,3 @@
+https://github.com/GregaVrbancic/Phishing-Dataset/blob/master/dataset_full.csv
+hhttps://www.kaggle.com/code/proloypal/trojan-detection-cnn-97-accuracy/input
+https://www.kaggle.com/datasets/amdj3dax/ransomware-detection-data-set/data
